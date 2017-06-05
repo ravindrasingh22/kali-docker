@@ -26,5 +26,19 @@ For details about Kali Linux metapackages, check https://www.kali.org/news/kali-
 (Its not good practice yo run the pentesting on the prod server or the unauthorized server, its not legal so I am suggesting this to run on local and these instruction will help you to setup the project at local server, try to make the same sever as your project has on public facing).
 
 # Run the demo code
+-- To Be added
 
 # Troubleshooting
+-- To be added
+
+# Want to contribute
+###  Development
+* Please fork and raise a PR to review
+### Issues
+* Please create an issue under https://github.com/ravindrasingh22/kali-docker/issues
+
+### Documentation
+* Please create/help in the Documentation under https://github.com/ravindrasingh22/kali-docker/wiki
+
+## Contributors
+* **Ravindra Singh**  *Technical Architect* - [RavindraSingh22](http://github.com/ravindrasingh22/)
