@@ -1,0 +1,28 @@
+# This files run on the local machine only with docker-compose up --build cmd.
+kali:
+  build: .
+  ports:
+  - "8090:80"
+  volumes:
+  - ./code/:/var/www/html/
+  tty: true
+#    - logvolume01:/var/log
+#    links:
+#    - redis
+#  redis:
+#    image: redis
+#volumes:
+#  logvolume01: {}
+#  links:
+#    - postgres
+
+#postgres:
+#  image: postgres
+#  environment:
+#    - POSTGRES_DB=kali
+#    - POSTGRES_USER=postgres
+#    - POSTGRES_PASSWORD=postgres
+#  ports:
+#    - 5432:5432
+#  volumes:
+#    - ./kalidb:/var/lib/postgresql/data
