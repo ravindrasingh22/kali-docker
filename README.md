@@ -31,7 +31,7 @@ For details about Kali Linux metapackages, check https://www.kali.org/news/kali-
 # Troubleshooting
 -- To be added
 
-# Want to contribute
+# Want to contribute?
 ###  Development
 * Please fork and raise a PR to review
 ### Issues
