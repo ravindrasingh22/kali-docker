@@ -12,9 +12,10 @@ For details about Kali Linux metapackages, check https://www.kali.org/news/kali-
 # Prerequisite
 * Docker for mac or download docker from https://www.docker.com/
 * Check if you have 4GB space available in your HD
+* Docker composer to make it easy to run at local.
 
 
-# Setup Kali Instruction
+# Setup Instructions
 * Clone the repo from `git clone git@github.com:ravindrasingh22/kali-docker.git kali-docker`.
 * `cd kali-docker`
 * `docker-compose build`
